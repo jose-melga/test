@@ -1,0 +1,32 @@
+h1, h2 = van a tomar los dos
+
+button{} menos fuerza que #boton, osea que el id es mas fuerte que usar solo un selector
+
+id>class>selector(p,h1,label)
+
+  
+
+///////////////
+Selector child
+li a  (only a wil change) = a inside of li (
+
+/////////////////////
+
+h1+ p: agarra el siguiente despues de p, pero no es child sino de mismo rango.
+<h1>
+<p>
+
+/////////////////
+Gas
+https://www.texasgasservice.com/
+Username: kelseymarie
+Password: Derran123
+
+City of Austin
+Username: kelseymarie
+Password: Derran
+
+
+
+
+3574
